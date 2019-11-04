@@ -24,8 +24,14 @@ div {
     padding: 10px 0px 25px 20px;
 }
 
-.woods-link {
+a[href="tools.html"] {
     text-decoration: none;
     font-weight: bold;
     color: rgb(35, 61, 50);
+}
+
+a[href="woods.html"] {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(83, 5, 5);
 }
