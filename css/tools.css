@@ -1,0 +1,45 @@
+/*body{
+    background-color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+.myimg{
+    border-radius: 0 35px 35px 35px;
+    border: 7px solid rgb(104, 112, 134);
+    margin: 2%;
+}
+.myul{
+    border-radius: 35px 35px 0 35px ;
+    border: 7px solid rgb(104, 112, 134);
+    background-color: white;
+    padding: 3%;
+    margin: 2%;
+}
+.cont_woods{
+    border-radius: 0 35px 35px 35px;
+    border: 7px solid rgb(2, 2, 2);
+    background-color: white;
+    padding: 3%;
+    margin: 2%;
+}
+.cont_tools{
+    border-radius: 35px 35px 0 35px;
+    border: 7px solid rgb(104, 112, 134);
+    background-color: white;
+    padding: 3%;
+    margin: 2;
+}
+h1{margin: 2%;}
+h2{margin: 2%;}*/
+
+
+.tools {
+    border-radius: 35px 35px 0 35px;
+    border: 5px solid rgb(47, 88, 121);
+    padding: 10px 0px 25px 20px;
+}
+a[href*="tools.html"] {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(35, 61, 50);
+}
