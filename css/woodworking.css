@@ -6,7 +6,11 @@ body {
 div {
     margin: 20px 0 0 0;
     background-color: rgb(226, 233, 236);
-    padding: 0;
+    padding: 5px 20px 5px 20px;
+}
+
+ul {
+    padding: 0 0 0 18px;
 }
 
 .woods {
