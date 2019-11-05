@@ -6,6 +6,7 @@ body {
 div {
     margin: 20px 0 0 0;
     background-color: rgb(226, 233, 236);
+    padding: 0;
 }
 
 .woods {
@@ -14,7 +15,9 @@ div {
 }
 
 img.tools {
+    border-radius: 0 35px 35px 35px;
     border: 5px solid rgb(47, 88, 121);
+    padding: 0%;
 }
 
 a[href*="woods.html"] {
@@ -22,17 +25,3 @@ a[href*="woods.html"] {
     font-weight: bold;
     color: rgb(83, 5, 5);
 }
-
-
-/* .tools {
-    border-radius: 35px 35px 0 35px;
-    border: 5px solid rgb(47, 88, 121);
-    padding: 10px 0px 25px 20px;
-} */
-
-
-/* a[href*="tools.html"] {
-    text-decoration: none;
-    font-weight: bold;
-    color: rgb(35, 61, 50);
-} */
